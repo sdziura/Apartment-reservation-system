@@ -1,0 +1,461 @@
+<reservations>
+  <reservation>
+    <buyer>Lori Robinson</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>1</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Alan Sims</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>2</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Earl White</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>3</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Donna Gardner</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>4</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Amanda Murray</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>5</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Heather Snyder</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>6</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Rose Porter</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>7</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Albert Palmer</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>8</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Amy Mcdonald</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>9</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Tina Nguyen</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>10</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Jeremy Edwards</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>11</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Gerald Murphy</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>12</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Elizabeth Dixon</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>13</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Susan Banks</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>1</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Eugene Hamilton</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>2</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Laura Berry</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>3</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Robin Ortiz</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>4</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Sarah Price</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>5</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Albert Kelly</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>6</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Wanda Castillo</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>7</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Gerald Griffin</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>8</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Donald Banks</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>9</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Joshua Brooks</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>10</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Bonnie Hanson</buyer>
+    <apartment>Hotel Castello di Casole—a Timbers Resort</apartment>
+    <room>11</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Mildred Jenkins</buyer>
+    <apartment>Ashford Castle</apartment>
+    <room>1</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Amanda James</buyer>
+    <apartment>Ashford Castle</apartment>
+    <room>2</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Stephanie Chapman</buyer>
+    <apartment>Ashford Castle</apartment>
+    <room>3</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Douglas Watson</buyer>
+    <apartment>Ashford Castle</apartment>
+    <room>4</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>James Collins</buyer>
+    <apartment>Ashford Castle</apartment>
+    <room>5</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Jerry Austin</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>1</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Joyce Rivera</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>2</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Carlos Lynch</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>3</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Jennifer Gutierrez</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>4</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Kevin Ray</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>5</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Paul Brown</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>6</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Arthur Stewart</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>7</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Nicole Morales</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>8</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Robin Alexander</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>9</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Jesse Wallace</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>10</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Andrew Walker</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>11</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Jessica Ward</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>12</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Clarence Owens</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>13</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Kevin Fisher</buyer>
+    <apartment>Triple Creek Ranch</apartment>
+    <room>14</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Joan Alvarez</buyer>
+    <apartment>The Oberoi Rajvilas</apartment>
+    <room>1</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>John Burns</buyer>
+    <apartment>The Oberoi Rajvilas</apartment>
+    <room>2</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Kathryn Boyd</buyer>
+    <apartment>The Oberoi Rajvilas</apartment>
+    <room>3</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Jacqueline Lee</buyer>
+    <apartment>The Oberoi Rajvilas</apartment>
+    <room>4</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Kathryn Reyes</buyer>
+    <apartment>The Oberoi Rajvilas</apartment>
+    <room>5</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Joe Morrison</buyer>
+    <apartment>The Oberoi Rajvilas</apartment>
+    <room>6</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>Joe Bryant</buyer>
+    <apartment>The Oberoi Rajvilas</apartment>
+    <room>7</room>
+    <date>
+      <in>2020-05-05</in>
+      <out>2020-05-07</out>
+    </date>
+  </reservation>
+  <reservation>
+    <buyer>George Welch</buyer>
+    <apartment>The Oberoi Udaivilas</apartment>
+    <room>2</room>
+    <date>
+      <in>2020-05-10</in>
+      <out>2020-05-13</out>
+    </date>
+  </reservation>
+</reservations>
