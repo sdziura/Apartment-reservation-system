@@ -7,9 +7,9 @@ import java.util.Scanner;
 
 public class MainMenu {
 
-    private RegisterMenu registerMenu = new RegisterMenu();
-    private LoginMenu loginMenu = new LoginMenu();
-    private Scanner in = new Scanner(System.in);
+    private final RegisterMenu registerMenu = new RegisterMenu();
+    private final LoginMenu loginMenu = new LoginMenu();
+    private final Scanner in = new Scanner(System.in);
 
     public void start() throws IOException, ParseException, java.text.ParseException {
 

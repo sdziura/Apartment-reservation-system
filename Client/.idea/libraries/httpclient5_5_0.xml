@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="httpclient5-5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpclient5-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpclient5-cache-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpclient5-testing-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpclient5-fluent-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpclient5-win-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpcore5-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpcore5-h2-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpcore5-reactive-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcomponents-client-5.0/lib/httpcore5-testing-5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

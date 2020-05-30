@@ -54,7 +54,6 @@ public class BuyerMenu {
 
         if(!requests.existRoom(reservations)) {
             System.out.println("No room like this found");
-            return;
         } else {
             System.out.println("Date in (yyyy-mm-dd) : ");
             reservations.setDateIn(in.nextLine());
@@ -72,7 +71,7 @@ public class BuyerMenu {
         }
     }
 
-    private void reviewApartmentsFrom(String cityOrCountry) throws IOException, ParseException {
+    private void reviewApartmentsFrom(String cityOrCountry) throws IOException, ParseException, java.text.ParseException {
 
         List<Apartments> apartments = requests.reviewApartmentsFromLocation(cityOrCountry);
 
